@@ -58,7 +58,6 @@
 #include <WiFi.h>
 #include <WiFiUdp.h>
 #include <TFT_eSPI.h>
-#include <SPI.h>
 #include "background.h"
 //**********************|| Librarys & Links ||***********************//
 
