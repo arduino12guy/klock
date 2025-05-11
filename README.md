@@ -1,12 +1,2 @@
-# Klock
-
-A simple minimal desk clock with simple graphics.
-
-# Minecraft
-A simple UI with healing potion.
-
-# pokemon
-A minimal UI with a pokeball for fun.
-
-# day
-It cycles between day and night.
+# ASTRA-32
+"Aerospace Systems for Thrust-vectoring and Rocket Avionics" a experimental model rocket flight controller made with NodeMCU microcontroller it uses Mpu6050. Made for learning basic Thrust-vectoring and flight Avionics.
